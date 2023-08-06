@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CirqManyBodyPhysics
+title: Many-Body-Physics(cirq)
 description: Simulating quantum many-body dynamics on a current digital quantum computer
 img: assets/img/cirqmanybody.pdf
 importance: 3
