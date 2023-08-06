@@ -1,6 +1,6 @@
 ---
 layout: page
-title: QHack2023
+title: QHack2023 (Pennylane)
 description: Accelerating Noisy Algorithm Research with PennyLane-Lightning and NVIDIA cuQuantum SDK
 img: assets/img/runtime_sampling.pdf
 importance: 2
