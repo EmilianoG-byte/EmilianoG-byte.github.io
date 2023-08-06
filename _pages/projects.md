@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Projects during my Bachelor and Master studies
+description: Personal and study related projects
 nav: true
 nav_order: 2
 display_categories: [academic]

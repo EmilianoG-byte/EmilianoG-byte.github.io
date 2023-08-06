@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: So far not a peer-reviewed publication, just a reference to the lasp2 project.
+description: Scientific publications in which I have participated.
 years: [2022,2023]
 nav: true
 nav_order: 1
