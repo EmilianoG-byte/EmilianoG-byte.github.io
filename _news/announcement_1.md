@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-03-13 15:59:00-0400
+date: 2023-06-23 07:59:00-0400
 inline: true
 ---
 
-I am very excited to start my internship on structural analysis of nanoparticles at UMET laboratory in Lille.
+I have been awarded with the Deutschland Stipendium by the Ludwig Maximillians Universität München. See more [here.](https://www.lmu.de/de/die-lmu/foerdern-und-unterstuetzen/deutschlandstipendium/verleihung-der-deutschlandstipendien-2022/index.html) 
