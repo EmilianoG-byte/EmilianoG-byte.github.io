@@ -4,7 +4,7 @@ title: Bachelor's Thesis
 description: Generating Structured Thermal Noise for Quantum Dynamical Systems
 img: assets/img/Noise.PNG
 importance: 4
-category: academic
+category: Academic
 ---
 
 Bachelor's thesis project at Jacobs University Bremen under the supervision of Prof. Ulrich Kleinekathöfer and Yannick Holtkamp. The thesis can be viewed in detail <a href="/assets/pdf/Thesis_final_submission.pdf">here</a>

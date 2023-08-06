@@ -1,15 +1,19 @@
 ---
 layout: page
-title: LASP2
-description: An active training interface between LAMMPS, n2p2 and VASP
-img: assets/img/lasp2Graph.png
+title: QHack2023
+description: Accelerating Noisy Algorithm Research with PennyLane-Lightning and NVIDIA cuQuantum SDK
+img: assets/img/runtime_sampling.pdf
 importance: 2
-category: academic
+category: Personal
 ---
 
-Python code developed during my master's internship in Toulouse in 2022, under the supervision of Dr. Julien Lam and Dr. Akshay Krishna. The code makes use of the Python interface library for <a href="https://docs.lammps.org/Python_module.html">LAMMPS</a>, and uses <a href="https://mpi4py.readthedocs.io/en/stable/">mpi4py</a> to perform computations in parallel. The <a href="https://compphysvienna.github.io/n2p2/">n2p2</a> and <a href="https://www.vasp.at/">VASP</a> binaries are executed using the `os.system()` function in Python. The code can be viewed <a href="https://github.com/carle13/LASP2Interface">here</a>.
+This project was a submission for the Quantum Computing Hackathon __QHack2023__ by Pennylane in the category of Nvidia, and was awarded the first place worldwide. 
 
-For my Science Watch project I kept working on the code and performing tests on gold systems. The report can be seen <a href="assets/pdf/scientificWatchFall2022.pdf">here</a>.
+It was an equal collaboration between Lion Frangoulis (lion.frangoulis@tum.de), Cristian Emiliano Godinez Ramirez (cristian.godinez@tum.de), Emily Haworth (ge96puk@mytum.de), and Aaron Sander (aaron.sander@tum.de) from the Technical University of Munich.
+
+* Project [repository](https://github.com/EmilianoG-byte/QHack2023).
+* PennyLane [announcement](https://www.lmu.de/de/die-lmu/foerdern-und-unterstuetzen/deutschlandstipendium/verleihung-der-deutschlandstipendien-2022/index.html).
+* Nvidia [announcement](https://developer.nvidia.com/blog/qhack-results-highlight-quantum-computing-applications-and-tools-on-gpus/).
 
 ### Abstract:
-Machine learning (ML) methods have become more relevant in materials science over the last decade. They are now well recognized as effective methods for approximating extremely complex functions. Machine learning interaction potentials (MLIP) offer computation speeds close to empirical potentials, while having an accuracy close to the method used in training. In this project, an active learning approach was tested for the extension of gold databases with BCC and surface structures. The active learning approach used was Query by Committee (QbC), implemented in the lasp2 interface. The machine learning framework n2p2 was used for the creation of potentials and Large-scale Atomic/Molecular Massively Parallel Simulator (LAMMPS) was used for exploring the phase space with NVT simulations. For selected structures, the vasp software was used to compute forces and energy using Density-Functional Theory (DFT), which where then added to the database. Potentials were then trained on-the-fly using lasp2 to measure the disagreement between the committee and then deciding when a certain structure should be added to the database. LAMMPS was then used to calculate surface energies for (100) and (111) structures, as well as BCC bulk modulus. These physical properties served as control parameters to test whether the potential was improving with on-the-fly training. It was found that the lasp2 method can improve a potential by doing on-the-fly training, however it is not always the case, as seen with BCC structures. For the (100) and (111) surfaces we were able to quickly recover the values predicted with a manually created database. In the case of BCC, no clear improvement could be seen, and the error in bulk modulus seemed to behave arbitrarily, even when using the complete manually created database as a starting point.
+In this project, we consider the challenges of simulating noisy quantum algorithms, which are known to require significant computational resources. We address this issue by leveraging the GPU tools available in Xanadu’s PennyLane-Lightning-GPU and NVIDIA’s cuQuantum SDK, which enable us to scale up our simulations and gain deeper insights into the impact of noise on quantum algorithms. Our analysis sheds light on the general effects of noise on simulation and identifies areas where it can accelerate the simulation of open quantum systems and ground state optimization. Through our work, we hope to contribute to a better understanding of how to effectively simulate noisy quantum algorithms, which could have far-reaching implications for quantum computing and finding NISQ era use cases.
