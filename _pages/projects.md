@@ -5,7 +5,7 @@ permalink: /projects/
 description: Personal and study related projects
 nav: true
 nav_order: 2
-display_categories: [academic]
+display_categories: [Academic, Personal]
 #display_categories: [work, fun]
 horizontal: false
 ---
