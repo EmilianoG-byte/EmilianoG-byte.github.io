@@ -1,13 +1,17 @@
 ---
 layout: page
 title: Bachelor's Thesis
-description: Molecular Dynamics Simulation of Porphyrin Adsorption on Clay for the formation of a Light Harvesting System
-img: assets/img/porphyrins.png
+description: Generating Structured Thermal Noise for Quantum Dynamical Systems
+img: assets/img/Noise.PNG
 importance: 4
 category: academic
 ---
 
-Bachelor's thesis project at Jacobs University under the supervision of Prof. Ulrich Kleinekathöfer and Dr. Sayan Maity. The thesis can be viewed in detail <a href="/assets/pdf/ThesisCarlosSalazar.pdf">here</a>
+Bachelor's thesis project at Jacobs University Bremen under the supervision of Prof. Ulrich Kleinekathöfer and Yannick Holtkamp. The thesis can be viewed in detail <a href="personal-site/assets/pdf/Thesis_final_submission.pdf">here</a>
 
 ### Abstract:
-In this thesis several simulations were performed with the objective of studying the adsorption of porphyrin molecules on a montmorillonite surface. The systems simulated consisted of sixteen porphyrins and a clay surface with different charge densities. In all of the cases some adsorption of the porphyrins on the surface was observed. The simulation was performed using the GROMACS software, results were visualized using VMD and analyzed using the MDanalysis library on python. The results of the simulation are in agreement with the expected configuration from other sources. The relation between the inter-charge distance in porphyrins and clay and the adsorption capabilities of the surface was proved. It was found that the adsorption has a peak in the area where the inter-charge distance difference is 0. A hypothesis could be formed on the reason for the decrease in adsorption when electric interactions are stronger, in which the interaction of the solvent and ions is stronger.
+
+
+To understand some of the most fundamental processes responsible for life on Earth, such as photosynthesis, quantum dynamical descriptions are of utmost importance. This analysis can be performed by studying the so-called open systems through a vari- ation of the mean-field Ehrenfest Dynamics methods, known as Numerical Integration of Schr ̈odinger equation (NISE). A key ingredient for the calculations using NISE is the time-dependent site energies. Such fluctuations can be obtained from Molecular Dynamics (MD) simulations. However, these methods are usually computationally expensive, and do not provide the desired accuracy. An alternative approach is the generation of structured noise following the bath spectral density. This has been done previously for systems described by simple spectral functions.
+
+In this thesis I implement an enveloping algorithm capable of generating noise with any arbitrary spectral density. Several tests are performed to verify the validity, scope and limitations of the algorithm. After finding the parameters necessary to repli- cate more complex spectral shapes, this noise is used in the calculation of population dynamics for a collection of test systems. These simulations provide insight on the parameter regimes and specific considerations for the implementation of the noise in these calculations, and yield useful information in the performance of NISE under the new frameworks.
