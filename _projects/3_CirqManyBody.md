@@ -4,7 +4,7 @@ title: CirqManyBodyPhysics
 description: Simulating quantum many-body dynamics on a current digital quantum computer
 img: assets/img/cirqmanybody.pdf
 importance: 3
-category: academic
+category: Academic
 ---
 
 Report submission for the practical training course (34) of the Quantum Science and Technology master's degree at the Technische Universität München.
