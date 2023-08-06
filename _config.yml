@@ -2,13 +2,13 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: Emiliano Godinez # the website title (if blank, full name will be used instead)
 first_name: Cristian
-middle_name: Emilianose
+middle_name: Emiliano
 last_name: Godinez Ramirez
 email: emiliano.godinez.grad@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Guatemalan master's student at Technische Universität München
+  Quantum Science master student at Technische Universität München and Ludwig Maximilian Universität München
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -66,16 +66,16 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: carle13
+github_username: EmilianoG-byte 
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-linkedin_username: carlos-salazar-letona # your LinkedIn user name
+linkedin_username: Cristian Emiliano Godínez Ramírez # your LinkedIn user name
 telegram_username: # your Telegram user name
 scholar_userid: # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-orcid_id: 0000-0002-3126-2033 # your ORCID ID
+orcid_id: 0000-0002-8583-3268 # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
@@ -91,7 +91,7 @@ lastfm_id: # your lastfm id
 spotify_id: # your spotify id
 pinterest_id: # your pinterest id
 unsplash_id: # your unsplash id
-instagram_id: # your instagram id
+instagram_id: emiliano_godinez # your instagram id
 facebook_id: # your facebook id
 discord_id: # your discord id (18-digit unique numerical identifier)
 
@@ -122,7 +122,7 @@ pagination:
   enabled: true
 
 # Comments
-disqus_shortname: carlos # put your disqus shortname
+disqus_shortname:  # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # External sources.
