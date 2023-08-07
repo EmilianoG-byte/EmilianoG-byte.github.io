@@ -3,7 +3,7 @@ layout: page
 title: MPS-GDS
 description: Gradient Descent Optimization of MPS for Ground State Finding
 img: assets/img/GDS_comparison.png
-importance: 3
+importance: 1
 category: Academic
 ---
 
