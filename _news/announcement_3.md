@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-12-01 07:59:00-0400
+date: 2023-04-01 16:11:00-0400
 inline: true
 ---
 
-I have just started my new role as a Quantum Engineer intern at IQM Quantum Computers in Munich! Looking forward to working in the Hardware Characterisation and Simulations group :)
+I am extremly happy to announce that our team (MFC) has been awarded the first place worldwide in the Quantum Computing Hackathon **QHACK 2023** by _PennyLane_ in the _Nvidia_ Category. See the announcement [here.](https://pennylane.ai/blog/2023/04/qhack-2023-highlights/#open-hackathon)
