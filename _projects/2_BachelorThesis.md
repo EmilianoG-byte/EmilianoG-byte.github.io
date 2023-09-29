@@ -9,6 +9,8 @@ category: Academic
 
 Bachelor's thesis project at Jacobs University Bremen under the supervision of Prof. Ulrich Kleinekathöfer and Yannick Holtkamp. The thesis can be viewed in detail <a href="/assets/pdf/Thesis_final_submission.pdf">here</a>.
 
+* Project [repository](https://github.com/EmilianoG-byte/Quantum-Dynamics).
+
 ### Abstract:
 
 
