@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Welcome to Jekyll!"
+external_source: pennylane.ai
 ---
 
 # Welcome
