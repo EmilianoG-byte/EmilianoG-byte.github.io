@@ -130,7 +130,7 @@ disqus_shortname:  # put your disqus shortname
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
   - name: pennylane.ai
-  rss_url: https://pennylane.ai/blog/author/emiliano-godinez
+    rss_url: https://pennylane.ai/blog/author/emiliano-godinez
 
 # -----------------------------------------------------------------------------
 # Collections
