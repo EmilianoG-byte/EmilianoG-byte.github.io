@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "From Zero to Open Source - Pennylane collab "
 external_source: pennylane.ai
 ---
 
-# Welcome
+# [WIP]
 
 **Hello world**, this is my first Jekyll blog post.
 
-I hope you like it!
+![My helpful screenshot](/assets/img/blog_pennylane.PNG)
+
+Here I will write about my meta experience when collaborating do the blog post [From Zero to Open Source](https://pennylane.ai/blog/2023/10/from_zero_to_open_source-contributing_to_quantum_software_projects/) which was released last week (October 2023).
