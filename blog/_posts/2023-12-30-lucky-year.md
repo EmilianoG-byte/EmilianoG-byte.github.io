@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A `lucky` year"
+title:  "A lucky year"
 ---
 
 This is my first "serious" entry for the _Not-so-quantum bits_ blog, and I wanted to start by reflecting a bit on the last year (2023). In particular, I want to discuss something that I heard repeated a couple of times over the last months. And that is how "`lucky`" I was this year.
