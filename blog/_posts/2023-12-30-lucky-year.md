@@ -48,4 +48,4 @@ This same idea brings me back to when I was in primary school and I asked my fat
 
 So maybe this year was just this period where I am finally seeing the results of my efforts (?).
 
-`Luck`, bamboo, opportunity, or whatever it may be, I feel extremely grateful for this year, and I can only hope that next year will be as full of growth, health, and happiness. Who knows, maybe it might be even better than this year, with a bit of `luck`.
+`Luck`, bamboo, opportunity, or whatever it may be, I feel extremely grateful for this year, and I can only hope that next year will be as full of growth, health, and happiness. Who knows, it might be even better than this year, with a bit of `luck`.
